@@ -93,7 +93,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "arrddon"
+  name             : "아르동의 개발 노트"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "writer, designer, developer"
   location         : "Seoul, Korea"
